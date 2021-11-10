@@ -1,0 +1,159 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+
+#ff{
+	 background: linear-gradient(to right,black, blue);
+}
+#ff .container .navbar-brand{
+	color: #ccc;
+}
+#ff .container a{
+	color: #ccc;
+}
+#rr a{
+	color:W#ccc;
+}
+
+#logo img{
+	padding: 1%;
+}
+#mainbox{
+	 
+	width: 100%;
+	background-color: #ccc;
+}
+footer{
+	 background: linear-gradient(to right,black, blue);
+	 margin-top:%;
+	 height: 340px;
+
+}
+#add_f .address{
+	background-color:#2d3436;
+	width:50%;
+	margin-left: 5%;
+	padding:3%;
+	
+}
+#add_f h3{
+	color: #ccc;
+}
+#add_f p{
+	
+color: #636e72;
+}
+#col2 h5{
+	border-bottom: 2 solid ;
+
+	text-align:left;
+	color: #ffff;
+
+	
+
+}
+#col2 ul li a{
+	color: #636e72;
+	margin-left: 2%;
+
+	
+
+}
+
+#mainbox .row .col-md-3{
+	position: relative;
+	box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.5),
+	            inset -5px -5px 5px rgba(255,255,255,0.5),
+	            5px 5px 5px rgba(0,0,0,0.05),
+	            -5px -5px 5px rgba(255,255,255,0.5);
+	border-radius: 15px;
+	transition:0.5s;
+
+	            
+
+}
+#mainbox .row{
+	margin-top: 5%;
+}
+#mainbox .row .col-md-3 .card-body h4{
+	color:rgba(60,50, 0,1.0);
+	font-size:2em;
+}
+#mainbox .row .col-md-4 .card-body h4{
+	color:rgba(60,50, 0,1.0);
+	font-size:2em;
+
+}
+#mainbox .row .col-md-3:hover .card{
+	transform: translateY(-50px);
+	box-shadow: 0.10px 40px rgba(0, 0, 0,0.4);
+
+}
+#mainbox .row .col-md-4:hover .card{
+	transform: translateY(-50px);
+	box-shadow: 0.10px 40px rgba(0, 0, 0,0.4);
+
+}
+#mainbox .row .col-md-4 .card-body button{
+	position: relative;
+
+	padding: 8px 20px;
+	border-radius: 20px;
+	background: #03a9fa;
+	color: #fff;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+#mainbox .row .col-md-4 .card-body button:hover{
+	background-color: black;
+	color: #fff;
+}
+#mainbox .row .col-md-3 .card-body button{
+	position: relative;
+
+	padding: 8px 20px;
+	border-radius: 20px;
+	background: #03a9fa;
+	color: #fff;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+#mainbox .row .col-md-3 .card-body button:hover{
+	background-color: black;
+	color: white;
+}
+
+
+
+#mainbox .row .col-md-3:hover .card-body h4{
+	color: rgba(60,50, 0, 0.5);
+}
+#mainbox .row .col-md-4:hover .card-body h4{
+	color: rgba(60,50, 0, 0.5);
+}
+#mainbox .row .col-md-4{
+position: relative;
+	box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.5),
+	            inset -5px -5px 5px rgba(255,255,255,0.5),
+	            5px 5px 5px rgba(0,0,0,0.05),
+	            -5px -5px 5px rgba(255,255,255,0.5);
+	border-radius: 15px;
+	            
+
+}
+
+#icon ul li a{
+	font-size: 30px;
+}
+.card{
+	   margin-top: 2%;
+      margin-left: 10px;
+     box-shadow: 10px 13px #ccc;
+   }
+
+#ws{
+	margin-top:28%;
+	position: fixed;
+	margin-left: 2%;
+}
